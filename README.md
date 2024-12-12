@@ -1,0 +1,2 @@
+# DataSpark-Professional-Insights-for-Global-Electronics
+DataSpark is an advanced data analytics project aimed at providing valuable insights for Global Electronics, a leading retailer in the electronics industry. The project utilizes comprehensive datasets that cover customer information, product details, sales data, store metrics, and currency exchange rates to derive meaningful business insights.
